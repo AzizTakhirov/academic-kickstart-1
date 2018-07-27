@@ -16,6 +16,7 @@ title = "Aziz Takhirov"
 copyright = "&copy; 2018"
 
 theme = "academic"
+color_theme = "ocean"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
